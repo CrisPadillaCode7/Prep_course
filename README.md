@@ -1,2 +1,1 @@
-# Prepcourse_henry
-Este es un repositorio de prueba del prep - henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo a mi escritorio local
